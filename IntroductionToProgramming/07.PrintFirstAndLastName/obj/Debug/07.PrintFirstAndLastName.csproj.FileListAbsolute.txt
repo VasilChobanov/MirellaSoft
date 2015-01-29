@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+C:\Users\User\Desktop\IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+C:\Users\User\Desktop\IntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.pdb

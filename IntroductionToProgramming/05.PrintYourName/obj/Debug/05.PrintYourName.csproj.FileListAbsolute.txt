@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\bin\Debug\05.PrintYourName.exe.config
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\bin\Debug\05.PrintYourName.exe
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\bin\Debug\05.PrintYourName.pdb
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\obj\Debug\05.PrintYourName.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\obj\Debug\05.PrintYourName.exe
+C:\Users\User\Desktop\IntroductionToProgramming\05.PrintYourName\obj\Debug\05.PrintYourName.pdb

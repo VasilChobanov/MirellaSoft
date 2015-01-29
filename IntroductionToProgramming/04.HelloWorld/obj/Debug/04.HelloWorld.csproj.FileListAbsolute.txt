@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.exe
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+C:\Users\User\Desktop\IntroductionToProgramming\04.HelloWorld\obj\Debug\04.HelloWorld.pdb
